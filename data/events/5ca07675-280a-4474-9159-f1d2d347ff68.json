@@ -9,9 +9,12 @@
     }
   },
   "auto_generate_web_page": true,
-  "label": "Cancion Sin Miedo Barrileras de",
+  "label": "Cancion Sin Miedo Barrileras de 8m",
   "created_at": "2026-01-13T02:26:49.825Z",
   "created_by": "lexirosev16",
-  "updated_at": "2026-01-13T02:26:49.825Z",
-  "updated_by": "lexirosev16"
+  "updated_at": "2026-01-13T03:09:02.192Z",
+  "updated_by": "lexirosev16",
+  "av_file_order": [
+    "6823ae16-c473-4c8e-b147-b6b2a1306d77"
+  ]
 }
