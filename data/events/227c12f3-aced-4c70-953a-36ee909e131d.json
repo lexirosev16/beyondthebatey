@@ -1,0 +1,34 @@
+{
+  "audiovisual_files": {
+    "da7fc737-89d1-4de8-94b5-d469714e44c5": {
+      "label": "2021 Enceuntro de Cantaoras",
+      "is_offline": false,
+      "file_type": "Video",
+      "file_url": "https://youtu.be/JVPQ4eKwJoM?si=-JA4EUz_KWxO2c6S",
+      "duration": 3033,
+      "caption_set": [],
+      "set_sort": [],
+      "duration_overridden": true
+    }
+  },
+  "auto_generate_web_page": true,
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "citation": "",
+  "label": "Bomba Festivals: 2021 Encuentro de Cantaoras",
+  "av_file_order": [
+    "da7fc737-89d1-4de8-94b5-d469714e44c5"
+  ],
+  "created_at": "2026-01-13T02:42:05.375Z",
+  "created_by": "lexirosev16",
+  "updated_at": "2026-01-13T02:42:05.375Z",
+  "updated_by": "lexirosev16"
+}
