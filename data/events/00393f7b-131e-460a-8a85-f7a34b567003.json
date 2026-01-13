@@ -1,0 +1,17 @@
+{
+  "audiovisual_files": {
+    "e283e273-5135-4e38-9aeb-78e05f681f8b": {
+      "label": "Encuentro de Cantaoras",
+      "is_offline": false,
+      "file_type": "Video",
+      "file_url": "https://youtu.be/IPOnmfXV3Eg?si=hL6zaP3Bmpd_Y3E0",
+      "duration": 3900
+    }
+  },
+  "auto_generate_web_page": true,
+  "label": "Bomba Festivals_2024 Encuentro de Cantaoras",
+  "created_at": "2026-01-13T02:26:49.825Z",
+  "created_by": "lexirosev16",
+  "updated_at": "2026-01-13T02:26:49.825Z",
+  "updated_by": "lexirosev16"
+}

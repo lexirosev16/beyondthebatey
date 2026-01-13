@@ -1,0 +1,17 @@
+{
+  "audiovisual_files": {
+    "d9b005c0-4467-43a7-b585-9fa74ffbbcd5": {
+      "label": "Raices",
+      "is_offline": false,
+      "file_type": "Video",
+      "file_url": "https://www.youtube.com/watch?v=7wCnrrN9Gak",
+      "duration": 5954
+    }
+  },
+  "auto_generate_web_page": true,
+  "label": "Bomba Films_Raices",
+  "created_at": "2026-01-13T02:26:49.825Z",
+  "created_by": "lexirosev16",
+  "updated_at": "2026-01-13T02:26:49.825Z",
+  "updated_by": "lexirosev16"
+}
