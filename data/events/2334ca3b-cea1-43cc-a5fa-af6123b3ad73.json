@@ -1,7 +1,7 @@
 {
   "audiovisual_files": {
     "93d65d3c-8351-44c4-bb93-9bc76e311fa3": {
-      "label": "Encuentro de Tambores",
+      "label": "Bomba Festivals: 2024 Encuentro de Tambores",
       "is_offline": false,
       "file_type": "Video",
       "file_url": "https://www.youtube.com/live/ZqLneQr250k?si=4z810aDCLRuIY5lK",
@@ -9,9 +9,12 @@
     }
   },
   "auto_generate_web_page": true,
-  "label": "Bomba Festivals_2024 Encuentro de Tambores",
+  "label": "Bomba Festivals: 2024 Encuentro de Tambores",
   "created_at": "2026-01-13T02:26:49.825Z",
   "created_by": "lexirosev16",
-  "updated_at": "2026-01-13T02:26:49.825Z",
-  "updated_by": "lexirosev16"
+  "updated_at": "2026-01-13T03:06:21.196Z",
+  "updated_by": "lexirosev16",
+  "av_file_order": [
+    "93d65d3c-8351-44c4-bb93-9bc76e311fa3"
+  ]
 }
