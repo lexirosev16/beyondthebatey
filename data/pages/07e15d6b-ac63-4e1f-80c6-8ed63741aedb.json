@@ -4,11 +4,12 @@
   "created_by": "lexirosev16",
   "title": "Bomba Festivals_2024 Encuentro de Cantaoras",
   "slug": "bomba-festivals2024-encuentro-de-cantaoras",
-  "updated_at": "2026-01-13T02:26:50.251Z",
+  "updated_at": "2026-01-13T02:54:10.373Z",
   "updated_by": "lexirosev16",
   "autogenerate": {
     "enabled": true,
     "type": "event",
     "type_id": "00393f7b-131e-460a-8a85-f7a34b567003"
-  }
+  },
+  "parent": "ab35525e-ec90-4411-b14b-8b47200f4f19"
 }
