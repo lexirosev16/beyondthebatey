@@ -4,11 +4,12 @@
   "created_by": "lexirosev16",
   "title": "Huracan Esoterica Tropical",
   "slug": "huracan-esoterica-tropical",
-  "updated_at": "2026-01-13T02:26:49.969Z",
+  "updated_at": "2026-01-13T02:54:27.163Z",
   "updated_by": "lexirosev16",
   "autogenerate": {
     "enabled": true,
     "type": "event",
     "type_id": "82d1cd00-82cc-4ba6-857e-3476ba4dd8e6"
-  }
+  },
+  "parent": "d4643aff-5c79-46d5-996a-286fb4d9518a"
 }
