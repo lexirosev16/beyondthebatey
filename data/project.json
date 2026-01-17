@@ -969,10 +969,6 @@
           "category": "analysis"
         },
         {
-          "tag": "Cuando Diego bailó",
-          "category": "song title"
-        },
-        {
           "tag": "sustainability",
           "category": "analysis"
         },
@@ -1111,7 +1107,7 @@
       ]
     },
     "created_at": "2026-01-13T02:11:18.959Z",
-    "updated_at": "2026-01-17T03:33:06.405Z",
+    "updated_at": "2026-01-17T03:33:34.202Z",
     "generate_pages_site": true
   },
   "annotations": {},
